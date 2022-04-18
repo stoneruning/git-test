@@ -1,2 +1,2 @@
 # git-test
-remote2
+remote r
