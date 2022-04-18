@@ -1,2 +1,2 @@
 # git-test
-edit by loacal
+edit by remote
